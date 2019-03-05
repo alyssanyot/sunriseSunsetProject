@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+h1{
+    padding: 25px;
+}
+
+#timeDisplay{
+    height: 300px;   
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+}
+
+#sunrise{
+    background-color: orange;  
+    padding: 70px 0px;
+}
+
+#sunset{
+    background-color: #307fff;  
+    padding: 70px 0px;
+}
